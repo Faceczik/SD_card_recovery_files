@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+ENV/
+*.egg-info/
+.eggs/
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- PyInstaller build ---
+build/
+dist/
+*.spec
+
+# --- Logs ---
+*.log
+recovery_log.txt
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
