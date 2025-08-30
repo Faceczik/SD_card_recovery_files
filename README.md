@@ -15,4 +15,4 @@ A Python GUI tool for recovering geodesy-related files from SD cards and raw dev
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/SD_card_recovery_files.git
-   cd geodesy-recovery
+   cd SD_card_recovery_files
